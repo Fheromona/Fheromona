@@ -10,6 +10,6 @@ Fundador del ecosistema **Nectarífero**, una iniciativa dedicada al diseño y e
 
 • Ingeniería Empresarial • Domain-Driven Design • Open Source
 
->Actualmente investigo y desarrollo infraestructura de software para plataformas inteligentes y sistemas distribuidos, diseñadas para evolucionar de forma sostenible.
+Actualmente investigo y desarrollo infraestructura de software para plataformas inteligentes y sistemas distribuidos, diseñadas para evolucionar de forma sostenible.
 
->"La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
+"La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
