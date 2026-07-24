@@ -2,8 +2,6 @@ Fernando Riveros Baena
 
 Arquitecto de software especializado en arquitectura empresarial, inteligencia artificial y diseño de plataformas.
 
-Fundador del ecosistema Nectarífero y creador de Nature OS™.
-
 Interesado en:
 Software Architecture
 Artificial Intelligence
