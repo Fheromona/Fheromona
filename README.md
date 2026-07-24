@@ -6,12 +6,9 @@ Fundador del ecosistema **Nectarífero**.
 
 ## Áreas de interés
 
-• Arquitectura de Software
-• Inteligencia Artificial
-• Sistemas Distribuidos
-• Enterprise Engineering
-• Domain-Driven Design
-• Open Source
+• Arquitectura de Software • Inteligencia Artificial • Sistemas Distribuidos
+
+• Ingeniería Empresarial • Domain-Driven Design • Open Source
 
 Actualmente investigo y construyo infraestructura para plataformas inteligentes, sistemas distribuidos y arquitecturas de software diseñadas para evolucionar.
 
