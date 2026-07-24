@@ -2,7 +2,7 @@
 
 Arquitecto de software especializado en inteligencia artificial, arquitectura empresarial y sistemas distribuidos.
 
-Fundador del ecosistema **Nectarífero**, una iniciativa dedicada al diseño y evolución de plataformas inteligentes.
+Fundador de **Nectarífero**, una iniciativa dedicada al diseño y evolución de plataformas inteligentes.
 
 ## Áreas de interés
 
