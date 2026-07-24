@@ -1,16 +1,17 @@
-## Hi there 👋
+Fernando Riveros Baena
 
-<!--
-**Fheromona/Fheromona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquitecto de software especializado en arquitectura empresarial, inteligencia artificial y diseño de plataformas.
 
-Here are some ideas to get you started:
+Fundador del ecosistema Nectarífero y creador de Nature OS™.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interesado en:
+Software Architecture
+Artificial Intelligence
+Distributed Systems
+Enterprise Engineering
+Domain-Driven Design
+Open Source
+
+Actualmente desarrollo herramientas e infraestructura para la próxima generación de plataformas inteligentes.
+
+"La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
