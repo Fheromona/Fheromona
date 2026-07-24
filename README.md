@@ -10,6 +10,6 @@ Enterprise Engineering
 Domain-Driven Design
 Open Source
 
-Actualmente desarrollo herramientas e infraestructura para la próxima generación de plataformas inteligentes.
+Actualmente investigo y construyo infraestructura de software para plataformas inteligentes y sistemas distribuidos.
 
 "La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
