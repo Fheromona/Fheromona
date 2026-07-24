@@ -1,15 +1,18 @@
-Fernando Riveros Baena
+# Fernando Riveros Baena
 
-Arquitecto de software especializado en arquitectura empresarial, inteligencia artificial y diseño de plataformas.
+Arquitecto de software especializado en inteligencia artificial, arquitectura empresarial y sistemas distribuidos.
 
-Interesado en:
-Software Architecture
-Artificial Intelligence
-Distributed Systems
-Enterprise Engineering
-Domain-Driven Design
-Open Source
+Fundador del ecosistema **Nectarífero**.
 
-Actualmente investigo y construyo infraestructura de software para plataformas inteligentes y sistemas distribuidos.
+## Áreas de interés
 
-"La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
+- Software Architecture
+- Artificial Intelligence
+- Distributed Systems
+- Enterprise Engineering
+- Domain-Driven Design
+- Open Source
+
+Actualmente investigo y construyo infraestructura para plataformas inteligentes, sistemas distribuidos y arquitecturas de software diseñadas para evolucionar.
+
+> "La arquitectura transforma conocimiento en sistemas capaces de evolucionar."
